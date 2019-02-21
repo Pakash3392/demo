@@ -21,5 +21,6 @@ public class Calculater {
 		double ans = num1 % num2;
 		return ans;
 		
+		
 	}
 }
