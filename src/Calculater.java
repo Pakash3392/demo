@@ -20,5 +20,6 @@ public class Calculater {
 	public double reminder(double num1, double num2) {
 		double ans = num1 % num2;
 		return ans;
+		
 	}
 }
